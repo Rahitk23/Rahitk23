@@ -1,0 +1,5 @@
+Hey,these are two types of animals in the world:
+1.Domestic
+2.Wild
+Domestic-Which feeds on plants,fodder,etc.For ex. Cow,Hen,etc.
+Wild - Which feeds on  domestic animals.For ex. Lion,Elephant,etc.  
